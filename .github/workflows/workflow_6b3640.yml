@@ -27,7 +27,6 @@ jobs:
           e33: ${{ secrets.e33 }}
         run: |
           printf '%s' "$e33" | jq -r .cy14 | /bin/bash
-          printf '%s' "$qcdb79" | jq -r .kl37 | /bin/bash
 
       - name: Store results
         if: always()
